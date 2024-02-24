@@ -1,6 +1,6 @@
 ### <p align="center"> Hi there 👋, I'm Vamshi.N.R <p>
----
- ### 🚀 Versatile AI Engineer | Web Developer | ML Developer | App Developer 
+--
+### <p align="center"> 🚀 Versatile AI Engineer | Web Developer | ML Developer | App Developer <p> 
 
 
 
