@@ -11,8 +11,7 @@
 
 ###  Connect with me :
 <a href="https://www.linkedin.com/in/vamshi-nr-7640b2204/">
-  <img src="![image](https://github.com/Vamshinr1012/Vamshinr1012/assets/80323809/4086e36e-ed8f-47e4-a686-f08e47cda971)
-" width='26'>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9wzdncrfj4q7%3F&psig=AOvVaw3ck6czi1EHaUqArpmsPU_d&ust=1708851469037000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDOjPjNw4QDFQAAAAAdAAAAABAE" width='26'>
 </a>
 
 <!--
