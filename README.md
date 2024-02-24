@@ -1,6 +1,8 @@
-###               Hi there 👋, I'm Vamshi.N.R
-----
-### 🚀 Versatile AI Engineer| Web Developer| ML Developer| App Developer 
+   ###               Hi there 👋, I'm Vamshi.N.R
+---
+ ### 🚀 Versatile AI Engineer| Web Developer| ML Developer| App Developer 
+
+
 
 
 - 🔭 I’m currently working on Autonomous Decision-making Entities
