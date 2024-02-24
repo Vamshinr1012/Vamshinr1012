@@ -2,9 +2,7 @@
 -----
 ### <p align="center"> 🚀 Versatile AI Engineer | Web Developer | ML Developer | App Developer <p> 
 
-<p> </p>
-<p> </p>
-<p> </p>
+
 - 🔭 I’m currently working on Autonomous Decision-making Entities
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🤔 I’m looking for help with NodeJs
