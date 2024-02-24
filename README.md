@@ -1,6 +1,6 @@
 ### <p align="center"> Hi there 👋, I'm Vamshi.N.R <p>
------
-### <p align="center"> 🚀 Versatile AI Engineer | Web Developer | ML Developer | App Developer <p> 
+------
+### <p align="center"> 🚀 Versatile AI Engineer | Web Developer | ML Developer  <p> 
 
 
 - 🔭 I’m currently working on Autonomous Decision-making Entities
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
