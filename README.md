@@ -37,7 +37,7 @@
 </a> &nbsp <a href="https://www.mysql.com/">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" width='34' height='40'>
 </a> &nbsp <a href="https://openai.com/">
-  <img src="https://cdn.betakit.com/wp-content/uploads/2023/03/open-ai-770x513.jpg" width='34' height='40'>
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/cff57d173218977.Y3JvcCwxODA3LDE0MTQsMCww.png" width='34' height='40'>
 </a>
 <!--
 **Vamshinr1012/Vamshinr1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
