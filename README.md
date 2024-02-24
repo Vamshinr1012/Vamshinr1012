@@ -15,7 +15,7 @@
 </a> &nbsp <a href="https://www.hackerrank.com/profile/vamshinr">
   <img src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" width='26'>
 </a> &nbsp <a href="https://www.reddit.com/user/vamshi1012/">
-  <img src="https://camo.githubusercontent.com/30fbb91010c423dcfd93fe335b660dd9317324c91a39af0b3a3636d5ae76d25e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667">
+  <img src="https://camo.githubusercontent.com/30fbb91010c423dcfd93fe335b660dd9317324c91a39af0b3a3636d5ae76d25e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" width='26'>
 </a>
 <!--
 **Vamshinr1012/Vamshinr1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
