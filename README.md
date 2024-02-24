@@ -1,4 +1,4 @@
-![image](https://github.com/Vamshinr1012/Vamshinr1012/assets/80323809/a9a04761-47ec-47c7-a42d-73ed65cb382c)### <p align="center"> Hi there 👋, I'm Vamshi.N.R <p>
+### <p align="center"> Hi there 👋, I'm Vamshi.N.R <p>
 ------
 ### <p align="center"> 🚀 Versatile AI Engineer | Web Developer | ML Developer  <p> 
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🤔 I’m looking for help with NodeJs
 - 📫 How to reach me vamshinr1012@gmail.com
-- ![image](https://github.com/Vamshinr1012/Vamshinr1012/assets/80323809/ed0f7612-6b8a-4652-b835-6a61480ce55d)
+- <img src='https://github.com/Vamshinr1012/Vamshinr1012/assets/80323809/ed0f7612-6b8a-4652-b835-6a61480ce55d' width='25'>
 
 
 <!--
