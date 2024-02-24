@@ -1,8 +1,9 @@
   ### Hi there 👋, I'm Vamshi.N.R
-###🚀 Versatile AI Engineer| Web Developer| ML Developer| App Developer 
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🚀 Versatile AI Engineer| Web Developer| ML Developer| App Developer 
 
 
--🔭 I’m currently working on Autonomous Decision-making Entities
+- 🔭 I’m currently working on Autonomous Decision-making Entities
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🤔 I’m looking for help with NodeJs
 - 📫 How to reach me vamshinr1012@gmail.com
