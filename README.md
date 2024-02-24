@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Deep Reinforcement Learning
 - 🤔 I’m looking for help with NodeJs
 - 📫 How to reach me vamshinr1012@gmail.com
-- <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fflyclipart.com%2Fgithub-png-icon-free-download-github-logo-png-813498&psig=AOvVaw3rho7dZsXla4oNJpvWRGzw&ust=1708850316979000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICw3tLJw4QDFQAAAAAdAAAAABAS' width='23'>
+- <img src='https://camo.githubusercontent.com/6859b81bad9211632c09ba0ba5aff3ce23d87f38bd199a05cfdd67b70d8ef58e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667' width='23'>
 
 
 <!--
